@@ -1,0 +1,16 @@
+Unzip the following folders before opening the project in vivado : 
+        image_processing_zynq.cache
+        image_processing_zynq.runs
+        image_processing_zynq.sim
+        image_processing_zynq.srcs
+        xgui
+        
+        
+        
+ Project has been developed on Vivado 2014.2.
+ 
+ Test image clown.bmp is also attached.
+ 
+ Any grayscale image of 512x512 can be used.
+ 
+ Output images are also attached.
